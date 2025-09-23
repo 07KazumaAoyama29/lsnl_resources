@@ -110,3 +110,8 @@ https://rm.lsnl.jp/projects/adm/wiki/%E5%8B%89%E5%BC%B7%E4%BC%9A%E8%BC%AA%E8%AC%
 
 ## 発表順の決定
 チームから一人代表を決めて、じゃんけんできめましょうか。
+
+**Acknowledgement**  
+This document was prepared with the assistance of Google's Gemini.
+
+Kazuma Aoyama(kazuma-a@akamafu.com)
