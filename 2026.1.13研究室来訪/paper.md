@@ -98,8 +98,8 @@
 
 ### Presenters List
 * **M1: yoshiteru:** 
-* **M1: taisei 2:** 
-* **Member 3:** 
+* **M1: taisei:** 
+* **M2: yuta:** 
 
 ---
 
